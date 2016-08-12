@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/etc/nginx'
+let g:netrw_dirhist_2='/home/huguoqing/workspace/git/rs_engine/conf/groups/insta_prod_apse1a'
+let g:netrw_dirhist_3='/home/huguoqing/workspace/git/rs_engine/conf/groups/insta_stg'
+let g:netrw_dirhist_4='/home/huguoqing/workspace/git/rs_engine/conf/groups/insta_prod_apse1a'
+let g:netrw_dirhist_5='/home/huguoqing/workspace/git/cmnews_api/deps/curl'
+let g:netrw_dirhist_6='/home/huguoqing/workspace/git/cmnews_api/conf/groups/insta_stg'
+let g:netrw_dirhist_7='/home/huguoqing/workspace/git/cmnews_api/conf/experiments'
